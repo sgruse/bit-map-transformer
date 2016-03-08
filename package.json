@@ -1,0 +1,26 @@
+{
+  "name": "bit-map-transformer",
+  "version": "1.0.0",
+  "description": "Bit map image transformer and reader",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitmap",
+    "transformer",
+    "reader",
+    "buffer",
+    "node"
+  ],
+  "author": "sgruse",
+  "license": "ISC"
+}
